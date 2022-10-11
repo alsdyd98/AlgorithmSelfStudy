@@ -1,0 +1,6 @@
+tempCodeRunnerFile*
+/.vscode
+
+*/*
+!*.cpp
+!*.md
